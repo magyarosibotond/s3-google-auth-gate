@@ -1,0 +1,27 @@
+{
+  "name": "s3-google-auth-gate",
+  "version": "0.1.0",
+  "description": "Secure your Amazon S3 buckets with Google Auth using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magyarosibotond/s3-google-auth-gate.git"
+  },
+  "keywords": [
+    "amazon",
+    "s3",
+    "google",
+    "auth",
+    "gate",
+    "bucket"
+  ],
+  "author": "Botond Magyarosi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magyarosibotond/s3-google-auth-gate/issues"
+  },
+  "homepage": "https://github.com/magyarosibotond/s3-google-auth-gate#readme"
+}
